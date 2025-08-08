@@ -2,7 +2,8 @@ from datetime import datetime
 
 
 name = input("Enter your name: ")
-
+gender = input("Enter your gender: ")
+print(gender)
 
 def get_Time(dt_object):
     
